@@ -2,15 +2,11 @@
   "manifest_version": 1,
   "name": "Hoja de Personaje",
   "version": "1.0.0",
-  "id": "hoja-personaje-amanautor",
   "description": "Hoja de personaje para Owlbear Rodeo",
-  "icons": {
-    "48": "icon.png"
-  },
   "permissions": [],
   "actions": [
     {
-      "id": "open-sheet",
+      "id": "hoja-personaje",
       "name": "Hoja de Personaje",
       "type": "panel",
       "entry": "index.html"
